@@ -1,4 +1,4 @@
-package com.rays.Conditional;
+package com.rays.conditional;
 
 public class StringBufferMethod {
 public static void main(String[] args) {

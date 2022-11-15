@@ -1,4 +1,4 @@
-package com.rays.Conditional;
+package com.rays.conditional;
 
 public class CopyArray {
 	public static void main(String[] args) {

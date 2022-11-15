@@ -1,4 +1,4 @@
-package com.rays.Conditional;
+package com.rays.conditional;
  public class StarPrint{
 	 public static void main(String[] args) {
 		 int n =5;

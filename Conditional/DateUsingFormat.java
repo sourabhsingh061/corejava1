@@ -1,4 +1,4 @@
-package com.rays.Conditional;
+package com.rays.conditional;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

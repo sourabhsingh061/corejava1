@@ -11,7 +11,7 @@ public class LoginExceptions extends Exception  {
 	int val = 0;
 	 if (val<1) {
 		System.out.println("value is less than one");
-		throws e;
+		
 	}  /*else {
 		System.out.println("greater than 1");
 	}*/
